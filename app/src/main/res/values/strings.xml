@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weight">Weight</string>
+    <string name="initialValue">0</string>
+    <string name="height">Height</string>
+    <string name="resultDescription">Result Description</string>
+    <string name="result_text">Healthy</string>
+    <string name="result">25.5</string>
+    <string name="title">BMI-Calculator</string>
+    <string name="kg">Kg</string>
+    <string name="cm">Cm</string>
+    <string name="calculate">Calculate</string>
+    <string name="description">(Normal range: 18.50 - 24.99)</string>
+    <string name="names">username...</string>
+
+
+</resources>
